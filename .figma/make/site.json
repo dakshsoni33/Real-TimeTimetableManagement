@@ -1,0 +1,10 @@
+{
+  "description": "Streamlines college timetable management with real-time scheduling, vacancy claims, and notifications for admins, faculty, and students.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
